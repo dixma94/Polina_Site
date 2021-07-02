@@ -1,0 +1,217 @@
+html {
+  background-image: url("forward image.png"),url("back image.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right -23px  top 14px, right 75px  top 180px;
+  background-size: 51vw 911px, 48vw 781px ;
+   width: 100vw;
+  overflow-x: hidden;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 22px;
+  margin-top: 48px;
+  margin-left: 90px;
+ 
+
+}
+.Burger{
+  margin-top: 2px;
+  width: 20.49px;
+  height: 11.19px;
+  float: left;
+}
+.Burger-lines{
+  background-color: black;
+  height: 1px;
+  margin-top: 5.6px;
+  
+}
+.Menu{
+  display: flex;
+  flex-direction: row;
+   justify-content: space-between;
+
+width: 39vw;
+
+}
+header a{
+
+  
+  font-family:  Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  color: rgba(0, 0, 0, 0.68);
+}
+
+.Socials{
+
+  
+  margin-top: 2px;
+}
+.Socials img{
+
+  width: 20px;
+  height: 20px;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+.Main-slider{
+  width: 720px;
+  height: 307px;
+  margin-top: 234px;
+  margin-left: 81px;
+}
+.Main-slider h1{
+  width: 720px;
+  height: 198px;
+  padding: 0px;
+  
+
+  font-family: Rockwell;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 120px;
+  line-height: 82.2%;
+}
+.Subtext{
+  width: 206.15px;
+  height: 32px;
+  margin-left: 32.5px;
+  margin-top: 77px;
+}
+.Subtext p{
+  margin: 0px;
+  font-family: Antic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+}
+footer{
+  width: 482px;
+  height: 42px;
+  margin-left: 113px;
+  margin-top: 308px;
+}
+.Pagination{
+  margin-top: 12px;
+  float: left;
+
+}
+.Pagination a{
+  width: 39px;
+  height: 39px;
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(0, 0, 0, 0.5);;
+}
+footer .Page-name{
+  float: right;
+  font-weight: normal;
+  font-family: Rubik;
+  font-style: normal;
+  margin: 0px;
+  font-size: 18px;
+  line-height: 21px;
+  
+}
+.Page-name p{
+  margin: 0px;
+}
+.Services{
+  
+  margin-top: 216px;
+ 
+
+}
+
+.Services .header{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  font-family: Rockwell;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 82px;
+}
+.Bex{
+  margin-left: 90px;
+  margin-top: 43px;
+  position: absolute;
+  font-family: Rockwell;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+}
+.FirstBlock{
+  display: flex;
+  height: 415px;
+  margin-top: 92px;
+  margin-left: 142px;
+  margin-right: 90px;
+
+}
+.FirstBlockBack{
+
+  display: flex;
+  flex-direction: row;
+  
+  height: 384px;
+  width: 100%;
+  margin-top: 31px;
+  margin-left: 52px;
+  background-color: black;
+  
+  }
+.Image{
+  position: absolute;
+  z-index: 0;
+}
+.FirstBlockBack .Title{
+  margin-left: 561px;
+  margin-top: 50px;
+
+  width: 213px;
+  color: white;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 57px;
+}
+.FirstBlockBack .Description{
+  width: 295px;
+  margin-top: 50px;
+margin-left: 23px;
+margin-right: 30px;
+  color: rgba(255, 255, 255, 0.7);
+  font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 143%;
+}
+
+
